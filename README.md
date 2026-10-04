@@ -1,1 +1,17 @@
-# CV
+# SOBRE MI 
+
+### [CV](Info/CV.pdf)
+
+---
+
+## APRENDIZAJES ADQUIRIDOS.
+- `JAVA`
+- `GITHUB`
+- `MYSQL`
+- `PHP`
+- `JS, HTML, CSS`
+- `LIBRERIAS: BOOSTRAP, UNIVERSE, TAIL WIND CSS`
+- `APACHE`
+- ``
+- ``
+- ``
