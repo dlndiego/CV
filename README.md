@@ -4,14 +4,14 @@
 
 ---
 
-## APRENDIZAJES ADQUIRIDOS.
-- `JAVA`
-- `GITHUB`
-- `MYSQL`
-- `PHP`
-- `JS, HTML, CSS`
-- `LIBRERIAS: BOOSTRAP, UNIVERSE, TAIL WIND CSS`
-- `APACHE`
-- ``
-- ``
-- ``
+> [!NOTE] 
+> ## APRENDIZAJES ADQUIRIDOS.
+>- `JAVA`
+>- `MYSQL`
+>- `PHP`
+>- `JS, HTML, CSS`
+>- `LIBRERIAS (BOOSTRAP, UNIVERSE, TAIL WIND CSS )`
+>- `APACHE`
+>- ``
+>- ``
+>- ``
